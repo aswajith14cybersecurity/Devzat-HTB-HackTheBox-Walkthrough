@@ -209,7 +209,8 @@ Command : *ssh -l test 127.0.0.1 -p 8443*
 
 ![ssh](https://user-images.githubusercontent.com/104053455/177007800-fe813c7e-4b2a-4958-88fe-6f43fe9053d4.png)
 
-###12. Root flag capturing:
+### 12. Root flag capturing:</br>
+
 Command : */file ../root.txt CeilingCatStillAThingin2021?*
 
 # Finally, the system is PWNED !!
